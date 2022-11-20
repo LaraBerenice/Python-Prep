@@ -1,1 +1,3 @@
-print('Hola Mundo!222')
+
+mi_variable = "XXX"
+print(mi_variable)
